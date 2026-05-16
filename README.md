@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jai Kishan</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Building Robust Backend Systems with Java, Spring Boot, Node.js & Kafka</h3>
 
 <hr/>
 
